@@ -18,7 +18,7 @@
     "useDefineForClassFields": true,
     "noFallthroughCasesInSwitch": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "./build",
+    "outDir": "./dist",
     "baseUrl": "./src",
     "paths": {
       "@/*": ["*"]
